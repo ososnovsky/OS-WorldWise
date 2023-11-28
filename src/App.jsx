@@ -4,6 +4,7 @@
 // npm i react-router-dom
 // npm i react-leaflet leaflet
 
+
 import { lazy, Suspense } from "react"
 import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom"
 
